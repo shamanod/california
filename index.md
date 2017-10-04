@@ -1,40 +1,26 @@
 ## Welcome To California
 
 
+### Places To Visit
+
+1. Pigeon Point Lighthouse – этот маяк находится недалеко от города Санта-Круз и особенно прекрасен на закате. Даже не вздумайте смотреть на него днем – разочаруетесь. 
+2. Cypress Tree Tunnel – если вы из тех, кто считает, что бегать – вредно, непременно сделайте исключение! 100-метровка в туннеле из живых деревьев точно не оставит вас равнодушными! (Он как раз на фото) 
+3. Shark Fin Cove Beach – словно акулий плавник прямо у берега пустынного песчаного пляжа возвышается утес. Туристов в тихой бухте практически нет, поэтому приезжать сюда я советую на весь день с пледом и набором для пикника. 
+4. 17 Miles Drive – пока часть «Road 1» (самая красивая трасса в Калифорнии) закрыта на ремонт, предлагаю не вешать нос и прокатиться по другой не менее живописной дороге. Морские котики, обрывы с видом на океан и дерево призрак доступны для посещения в любое время для тех, у кого есть 10 баксов за проезд. 
+5. Bixby Creek Bridge – во время своего первого визита в Калифорнию этот величественный мост в ущелье впечатлил меня особенно сильно! Правда, назвать его фотогеничным язык поворачивается с трудом, но иногда приятно убрать камеру подальше и просто полюбоваться пейзажем.
+
+🐕💭«Мое любимое место – центральный парк в городке Сан-Матео. Там не нужно фоткаться и много белок, а еще Китаец, который моделировал. Его выход из «дзена» всегда совпадал с моим выходом на прогулку»
+
+[1](https://www.google.com/maps/dir/Palo+Alto,+CA/Pigeon+Point+Lighthouse,+Pigeon+Point+Road,+Pescadero,+CA/@37.4300002,-122.5997876,10z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x808fb07b9dba1c39:0xe1ff55235f576cf!2m2!1d-122.1430195!2d37.4418834!1m5!1m1!1s0x808f003727a4369d:0x5a954bb7ea58032e!2m2!1d-122.3928022!2d37.1829202)
+
+[2](https://www.google.com/maps/dir/Palo+Alto,+CA/%D0%9F%D0%BE%D0%B9%D0%BD%D1%82+%D0%A0%D0%B5%D0%B9%D0%B5%D1%81+%D0%A1%D1%82%D0%B5%D0%B9%D1%88%D0%B5%D0%BD,+%D0%9A%D0%B0%D0%BB%D0%B8%D1%84%D0%BE%D1%80%D0%BD%D0%B8%D1%8F+94956/@37.7692556,-122.7022691,10z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x808fb07b9dba1c39:0xe1ff55235f576cf!2m2!1d-122.1430195!2d37.4418834!1m5!1m1!1s0x8085cf88aab4912b:0x8c1501422b6ca0a8!2m2!1d-122.8069356!2d38.0690894)
+
+[3](https://www.google.com/maps/dir/Palo+Alto,+CA/Shark+Fin+Cove,+Davenport,+CA/@37.2564709,-122.4468983,10z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x808fb07b9dba1c39:0xe1ff55235f576cf!2m2!1d-122.1430195!2d37.4418834!1m5!1m1!1s0x808e5b50ae0ae325:0x510819b9aa565bf8!2m2!1d-122.1854137!2d37.0040865)
 
 
-You can use the [editor on GitHub](https://github.com/shamanod/california/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![San-Francisco Districts](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/San_Francisco_districts_map.png/1920px-San_Francisco_districts_map.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+--
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shamanod/california/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
